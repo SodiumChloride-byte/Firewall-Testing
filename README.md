@@ -44,7 +44,9 @@ firewall-task/
 6. (Optional) Allow SSH (port 22) if needed.
 7. Remove the rule to restore the original state.
 
-👉 See details here: [windows/firewall-steps.md](./windows/firewall-steps.md)
+Here’s a screenshot of my firewall configuration:
+
+![Windows Firewall Screenshot](./images/windows.png)
 
 ---
 
