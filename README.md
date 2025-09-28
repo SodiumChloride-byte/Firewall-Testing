@@ -46,7 +46,7 @@ firewall-task/
 
 Here’s a screenshot of my firewall configuration:
 
-![Windows Firewall Screenshot](./images/windows.png)
+![Windows Firewall Screenshot](windows.png)
 
 ---
 
