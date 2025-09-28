@@ -23,14 +23,14 @@ firewall-task/
 ├── windows/
 │   ├── firewall-steps.md  # Windows Firewall step-by-step
 │   └── screenshots/
-│       └── README.md      # Placeholder for screenshots
+│       └── README.md      
 │
 ├── linux/
 │   ├── ufw-steps.md       # UFW step-by-step
 │   └── screenshots/
-│       └── README.md      # Placeholder for screenshots
+│       └── README.md      
 │
-└── summary.md             # Key takeaways and interview questions
+└── summary.md            
 ```
 
 ---
@@ -43,7 +43,6 @@ firewall-task/
 5. Test by attempting to connect on port 23.
 6. (Optional) Allow SSH (port 22) if needed.
 7. Remove the rule to restore the original state.
-8. Save a screenshot of your rules.
 
 👉 See details here: [windows/firewall-steps.md](./windows/firewall-steps.md)
 
@@ -84,12 +83,6 @@ firewall-task/
 - Always test and then remove temporary rules.
 
 👉 More details: [summary.md](./summary.md)
-
----
-
-## 📸 Deliverables
-- Screenshot/config file showing firewall rules applied
-- Short explanation of what you did
 
 ---
 
