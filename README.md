@@ -74,7 +74,9 @@ Here’s a screenshot of my firewall configuration:
    ```
 7. Save screenshots of terminal commands.
 
-👉 See details here: [linux/ufw-steps.md](./linux/ufw-steps.md)
+Here’s a screenshot of my firewall configuration:
+
+![Linux Firewall Screenshot](linux.png)
 
 ---
 
